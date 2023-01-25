@@ -12,3 +12,4 @@ Desenvolvimento de um jogo PONG, em JavaScript. Arquivos utilizados:
  	<li>style.css, para acessar, <a href="https://github.com/rodrigorissettoterra/Pong/blob/main/style.css" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
  	<li>trilha.mp3, para acessar, <a href="https://github.com/rodrigorissettoterra/Pong/blob/main/trilha.mp3" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
 </ul>
+Biblioteca utilizada: <a href="https://github.com/bmoren/p5.collide2D" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>P5.Collide2D</em></span></a>
